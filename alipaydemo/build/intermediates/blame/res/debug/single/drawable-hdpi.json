@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "K:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_icon.png",
+        "source": "K:\\mygithub\\AlipayDemo\\alipaydemo\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    },
+    {
+        "merged": "K:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title.png",
+        "source": "K:\\mygithub\\AlipayDemo\\alipaydemo\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    },
+    {
+        "merged": "K:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title_bg.png",
+        "source": "K:\\mygithub\\AlipayDemo\\alipaydemo\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    }
+]

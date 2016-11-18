@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Nov 18 15:08:41 GMT+08:00 2016
+2.base=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_
+5.file=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\msp_icon.png
+5.set=ANDROID_RESOURCE
+3.base=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_
+6.file=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\pay_external.xml
+2.set=ANDROID_RESOURCE
+4.base=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_
+7.file=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\pay_main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_
+1.file=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_
+2.file=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\msp_demo_title_bg.png
+6.set=ANDROID_RESOURCE
+0.base=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_
+4.file=K\:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\msp_demo_title.png
+0.set=DEX

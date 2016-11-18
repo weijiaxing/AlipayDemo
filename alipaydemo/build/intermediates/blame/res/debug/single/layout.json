@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "K:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "K:\\mygithub\\AlipayDemo\\alipaydemo\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "K:\\mygithub\\AlipayDemo\\alipaydemo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "K:\\mygithub\\AlipayDemo\\alipaydemo\\src\\main\\res\\layout\\pay_external.xml"
+    }
+]
