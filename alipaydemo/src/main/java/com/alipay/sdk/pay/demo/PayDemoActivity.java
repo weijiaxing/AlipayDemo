@@ -31,12 +31,12 @@ public class PayDemoActivity extends FragmentActivity {
 	/**
 	 * 支付宝支付业务：入参app_id
 	 */
-	public static final String APPID = "2016110802630842";
+	public static final String APPID = "201611080263XXXX";//后四位XXXX为了保护隐私
 
 	/**
 	 * 支付宝账户登录授权业务：入参pid值
 	 */
-	public static final String PID = "2016110802630842";
+	public static final String PID = "201611080263XXXX";//后四位XXXX为了保护隐私
 	/**
 	 * 支付宝账户登录授权业务：入参target_id值
 	 */
@@ -45,7 +45,7 @@ public class PayDemoActivity extends FragmentActivity {
 	/**
 	 * 商户私钥，pkcs8格式
 	 */
-	public static final String RSA_PRIVATE = "MIICdQIBADANBgkqhkiG9w0BAQEFAASCAl8wggJbAgEAAoGBAKLTKNTataWyZnFiacdQgUne9LZdR4nw3TpU8/p+OlqhYCKoHjGH1fSWTbPdsRY+lYf8tCJ7xckPCW5SUWqW6p/QwCCxceW9Mxp7/N222vFPJ1qsnGcpU6D5wEbII6iXUPvnTz5D0+IhkvfW5ow1Znp8qbOQSmGnkZtq5pGi2fiHAgMBAAECgYB6xIf25eksRDUlrLRhCfxRvH/6uJ5mDWxgvQkwh9hr2V1pBCWv5uGVh3aS9ca+JPYOEKWpknVwwZu0yPCGU8AXCCcyLbwALd41tMTUItixjTcTClN+X+3+4bQ82PDwDrXhrzMPgZEtd5yLWz/b3rCz2wGlh8a4ibuN/JavOEOjEQJBAMzWtC+YMFr6vC1EqJYStcdUZiKU+OaZ8BB4Qm6oLZJONGDQQfanh7ROeA7ZjWixHvmt/ENG9980Us382GMveUMCQQDLfhvWsF3pwZD9ljT8E+EbVikoW/9C9jU/wy42yHNSpj/uFff/irWfxOdFxSdXUhzg1vi51pPg+5D/R+5Isl1tAkBkYtyPbrBUBgluzfUpByZa97vOOt/4c3y5NZapEHa0+uqkf6u0K8pPzRz9ehTZN+SMTH4SopcbplLmbIHHqh5tAkAUudR2CmKWU2vEGE9vOUsdMKpifPRDyrXjt6p2U/ZC/cHXKw+mTGdxTWnM1mbKYwej8uFEdFF9gcHj7lybtOcFAkBIHj4jzMHGwCsIXi8dLgnDkYLT/J72ts9WD1MXnE4ZKIDlfe5Au4wOIzfe+0RjFuSZbCbG6o1RuQu3zBeBuzlj";
+	public static final String RSA_PRIVATE = "MIICdQIBADANBgkqhkiG9w0BAQEFAASCAl8wggJbAgEAAoGBAKLTKNTataWyZnFiacdQgUne9LZdR4nw3TpU8/p+OlqhYCKoHjGH1fSWTbPdsRY+lYf8tCJ7xckPCW5SUWqW6p/QwCCxceW9Mxp7/N222vFPJ1qsnGcpU6D5wEbII6iXUPvnTz5D0+IhkvfW5ow1Znp8qbOQSmGnkZtq5pGi2fiHAgMBAAECgYB6xIf25eksRDUlrLRhCfxRvH/6uJ5mDWxgvQkwh9hr2V1pBCWv5uGVh3aS9ca+JPYOEKWpknVwwZu0yPCGU8AXCCcyLbwALd41tMTUItixjTcTClN+X+3+4bQ82PDwDrXhrzMPgZEtd5yLWz/b3rCz2wGlh8a4ibuN/JavOEOjEQJBAMzWtC+YMFr6vC1EqJYStcdUZiKU+OaZ8BB4Qm6oLZJONGDQQfanh7ROeA7ZjWixHvmt/ENG9980Us382GMveUMCQQDLfhvWsF3pwZD9ljT8E+EbVikoW/9C9jU/wy42yHNSpj/uFff/irWfxOdFxSdXUhzg1vi51pPg+5D/R+5Isl1tAkBkYtyPbrBUBgluzfUpByZa97vOOt/4c3y5NZapEHa0+uqkf6u0K8pPzRz9ehTZN+SMTH4SopcbplLmbIHHqh5tAkAUudR2CmKWU2vEGE9vOUsdMKpifPRDyrXjt6p2U/ZC/cHXKw+mTGdxTWnM1mbKYwej8uFEdFF9gcHj7lybtOcFAkBIHj4jzMHGwCsIXi8dLgnDkYLT/J72ts9WD1MXnE4ZKIDlfe5Au4wOIzfe+0RjFuSZbCbG6o1RuQu3zBeBXXXX";//后四位XXXX为了保护隐私
 
 	private static final int SDK_PAY_FLAG = 1;
 	private static final int SDK_AUTH_FLAG = 2;
